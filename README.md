@@ -3,7 +3,7 @@
 This is a React weather app.
 
 🚀 Live Demo  
-Check out the live demo [here](https://react-weather-app-v1.netlify.app/).
+Check out the live demo [here](https://github.com/Nilesh2302/WeatherApp/settings/pages).
 
 📝 Instructions
 
